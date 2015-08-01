@@ -1,2 +1,2 @@
 # heroku-test
-Heroku setup
+Heroku setup from Mac
